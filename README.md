@@ -1,4 +1,8 @@
 # OctoPetShop
+
+Trying it out
+
+
 Octopus Pet Shop Example Web app written in .NET Core.  This solution consists of:
  - Octopus Pet Shop Web front end
  - Product Service
